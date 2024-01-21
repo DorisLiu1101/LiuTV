@@ -1,0 +1,73 @@
+CCTV 中央卫视,#genre#
+CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
+CCTV-1 综合,http://183.196.25.171:808/hls/1/index.m3u8
+CCTV-1 综合,http://china.733240.com/cqyx.php?id=cctv1HD
+CCTV-10 科教,https://cntv.sbs/tv?auth=2310201855&id=cctv10
+CCTV-10 科教,http://183.196.25.171:808/hls/10/index.m3u8
+CCTV-10 科教,http://china.733240.com/cqyx.php?id=cctv10HD
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
+CCTV-11 戏曲,http://59.47.226.94:8880/sql/2602/hls.m3u8
+CCTV-11 戏曲,http://183.196.25.171:808/hls/11/index.m3u8
+CCTV-11 戏曲,http://china.733240.com/cqyx.php?id=cctv11HD
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
+CCTV-12 社会与法,http://183.196.25.171:808/hls/12/index.m3u8
+CCTV-12 社会与法,http://china.733240.com/cqyx.php?id=cctv12HD
+CCTV-13 新闻,https://cntv.sbs/tv?auth=2310201855&id=cctv13
+CCTV-13 新闻,http://183.196.25.171:808/hls/13/index.m3u8
+CCTV-13 新闻,http://china.733240.com/cqyx.php?id=CCTVNewsHD
+CCTV-14 少儿,https://cntv.sbs/tv?auth=2310201855&id=cctv14
+CCTV-14 少儿,http://183.196.25.171:808/hls/14/index.m3u8
+CCTV-14 少儿,http://china.733240.com/cqyx.php?id=cctvseHD
+CCTV-15 音乐,https://cntv.sbs/tv?auth=2310201855&id=cctv15
+CCTV-15 音乐,http://183.196.25.171:808/hls/15/index.m3u8
+CCTV-15 音乐,http://china.733240.com/cqyx.php?id=cctv15HD
+CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
+CCTV-16 4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=2310201855&id=cctv16
+CCTV-16 奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+CCTV-16 奥林匹克,http://china.733240.com/cqyx.php?id=cctv16HD
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
+CCTV-17 农业农村,http://183.196.25.171:808/hls/93/index.m3u8
+CCTV-17 农业农村,http://china.733240.com/cqyx.php?id=cctv17HD
+CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
+CCTV-2 财经,http://183.196.25.171:808/hls/2/index.m3u8
+CCTV-2 财经,http://china.733240.com/cqyx.php?id=cctv2HD
+CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
+CCTV-3 综艺,http://183.196.25.171:808/hls/75/index.m3u8
+CCTV-3 综艺,http://china.733240.com/cqyx.php?id=cctv3HD
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=2310201855&id=cctv4
+CCTV-4 中文国际,http://183.196.25.171:808/hls/4/index.m3u8
+CCTV-4 中文国际,http://china.733240.com/cqyx.php?id=cctv4HD
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
+CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+CCTV-4K 超高清,http://china.733240.com/cqyx.php?id=CCTV4K
+CCTV-5 体育,https://cntv.sbs/tv?auth=2310201855&id=cctv5
+CCTV-5 体育,http://183.196.25.171:808/hls/78/index.m3u8
+CCTV-5 体育,http://china.733240.com/cqyx.php?id=cctv5HD
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
+CCTV-5+ 体育赛事,http://china.733240.com/cqyx.php?id=cctv5SportHD
+CCTV-6 电影,https://cntv.sbs/tv?auth=2310201855&id=cctv6
+CCTV-6 电影,http://183.196.25.171:808/hls/76/index.m3u8
+CCTV-6 电影,http://china.733240.com/cqyx.php?id=cctv6HD
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=2310201855&id=cctv7
+CCTV-7 国防军事,http://183.196.25.171:808/hls/7/index.m3u8
+CCTV-7 国防军事,http://china.733240.com/cqyx.php?id=cctv7HD
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=2310201855&id=cctv8
+CCTV-8 电视剧,http://183.196.25.171:808/hls/77/index.m3u8
+CCTV-8 电视剧,http://china.733240.com/cqyx.php?id=cctv8HD
+CCTV-9 纪录,https://cntv.sbs/tv?auth=2310201855&id=cctv9
+CCTV-9 纪录,http://183.196.25.171:808/hls/9/index.m3u8
+CCTV-9 纪录,http://china.733240.com/cqyx.php?id=cctv9HD
+CCTV女性时尚,http://china.733240.com/cqyx.php?id=nvxing
+CCTV风云足球,http://china.733240.com/cqyx.php?id=fyzqHD
+CCTV风云音乐,http://china.733240.com/cqyx.php?id=fyyyHD
+CCTV风云剧场,http://china.733240.com/cqyx.php?id=shandongHD
+CCTV风云剧场,http://china.733240.com/cqyx.php?id=fyjcHD
+CCTV央视文化精品,http://china.733240.com/cqyx.php?id=yswhHD
+CCTV央视台球,http://china.733240.com/cqyx.php?id=ystqHD
+CCTV兵器科技,http://china.733240.com/cqyx.php?id=bqkjHD
+CCTV怀旧剧场,http://china.733240.com/cqyx.php?id=hjjcHD
+CCTV高尔夫网球,http://china.733240.com/cqyx.php?id=golfHD
+CCTV第一剧场,http://china.733240.com/cqyx.php?id=diyijuchangHD
