@@ -1,73 +1,126 @@
-CCTV 中央卫视,#genre#
-CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
-CCTV-1 综合,http://183.196.25.171:808/hls/1/index.m3u8
-CCTV-1 综合,http://china.733240.com/cqyx.php?id=cctv1HD
-CCTV-10 科教,https://cntv.sbs/tv?auth=2310201855&id=cctv10
-CCTV-10 科教,http://183.196.25.171:808/hls/10/index.m3u8
-CCTV-10 科教,http://china.733240.com/cqyx.php?id=cctv10HD
-CCTV-11 戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
-CCTV-11 戏曲,http://59.47.226.94:8880/sql/2602/hls.m3u8
-CCTV-11 戏曲,http://183.196.25.171:808/hls/11/index.m3u8
-CCTV-11 戏曲,http://china.733240.com/cqyx.php?id=cctv11HD
-CCTV-12 社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
-CCTV-12 社会与法,http://183.196.25.171:808/hls/12/index.m3u8
-CCTV-12 社会与法,http://china.733240.com/cqyx.php?id=cctv12HD
-CCTV-13 新闻,https://cntv.sbs/tv?auth=2310201855&id=cctv13
-CCTV-13 新闻,http://183.196.25.171:808/hls/13/index.m3u8
-CCTV-13 新闻,http://china.733240.com/cqyx.php?id=CCTVNewsHD
-CCTV-14 少儿,https://cntv.sbs/tv?auth=2310201855&id=cctv14
-CCTV-14 少儿,http://183.196.25.171:808/hls/14/index.m3u8
-CCTV-14 少儿,http://china.733240.com/cqyx.php?id=cctvseHD
-CCTV-15 音乐,https://cntv.sbs/tv?auth=2310201855&id=cctv15
-CCTV-15 音乐,http://183.196.25.171:808/hls/15/index.m3u8
-CCTV-15 音乐,http://china.733240.com/cqyx.php?id=cctv15HD
-CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
-CCTV-16 4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
-CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=2310201855&id=cctv16
-CCTV-16 奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV-16 奥林匹克,http://china.733240.com/cqyx.php?id=cctv16HD
-CCTV-17 农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
-CCTV-17 农业农村,http://183.196.25.171:808/hls/93/index.m3u8
-CCTV-17 农业农村,http://china.733240.com/cqyx.php?id=cctv17HD
-CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
-CCTV-2 财经,http://183.196.25.171:808/hls/2/index.m3u8
-CCTV-2 财经,http://china.733240.com/cqyx.php?id=cctv2HD
-CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
-CCTV-3 综艺,http://183.196.25.171:808/hls/75/index.m3u8
-CCTV-3 综艺,http://china.733240.com/cqyx.php?id=cctv3HD
-CCTV-4 中文国际,https://cntv.sbs/tv?auth=2310201855&id=cctv4
-CCTV-4 中文国际,http://183.196.25.171:808/hls/4/index.m3u8
-CCTV-4 中文国际,http://china.733240.com/cqyx.php?id=cctv4HD
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-CCTV-4K 超高清,http://china.733240.com/cqyx.php?id=CCTV4K
-CCTV-5 体育,https://cntv.sbs/tv?auth=2310201855&id=cctv5
-CCTV-5 体育,http://183.196.25.171:808/hls/78/index.m3u8
-CCTV-5 体育,http://china.733240.com/cqyx.php?id=cctv5HD
-CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
-CCTV-5+ 体育赛事,http://china.733240.com/cqyx.php?id=cctv5SportHD
-CCTV-6 电影,https://cntv.sbs/tv?auth=2310201855&id=cctv6
-CCTV-6 电影,http://183.196.25.171:808/hls/76/index.m3u8
-CCTV-6 电影,http://china.733240.com/cqyx.php?id=cctv6HD
-CCTV-7 国防军事,https://cntv.sbs/tv?auth=2310201855&id=cctv7
-CCTV-7 国防军事,http://183.196.25.171:808/hls/7/index.m3u8
-CCTV-7 国防军事,http://china.733240.com/cqyx.php?id=cctv7HD
-CCTV-8 电视剧,https://cntv.sbs/tv?auth=2310201855&id=cctv8
-CCTV-8 电视剧,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV-8 电视剧,http://china.733240.com/cqyx.php?id=cctv8HD
-CCTV-9 纪录,https://cntv.sbs/tv?auth=2310201855&id=cctv9
-CCTV-9 纪录,http://183.196.25.171:808/hls/9/index.m3u8
-CCTV-9 纪录,http://china.733240.com/cqyx.php?id=cctv9HD
-CCTV女性时尚,http://china.733240.com/cqyx.php?id=nvxing
-CCTV风云足球,http://china.733240.com/cqyx.php?id=fyzqHD
-CCTV风云音乐,http://china.733240.com/cqyx.php?id=fyyyHD
-CCTV风云剧场,http://china.733240.com/cqyx.php?id=shandongHD
-CCTV风云剧场,http://china.733240.com/cqyx.php?id=fyjcHD
-CCTV央视文化精品,http://china.733240.com/cqyx.php?id=yswhHD
-CCTV央视台球,http://china.733240.com/cqyx.php?id=ystqHD
-CCTV兵器科技,http://china.733240.com/cqyx.php?id=bqkjHD
-CCTV怀旧剧场,http://china.733240.com/cqyx.php?id=hjjcHD
-CCTV高尔夫网球,http://china.733240.com/cqyx.php?id=golfHD
-CCTV第一剧场,http://china.733240.com/cqyx.php?id=diyijuchangHD
+🐼CCTV央視,#genre#
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
+CCTV-4 中文国际,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV-5 体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-6 电影,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+CCTV-7 国防军事,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV-8 电视剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV-9 纪录,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV-10 科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV-12 社会与法,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV-13 新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV-14 少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV-15 音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV-16 奥林匹克 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-17 农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV-1 综合,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
+CCTV-1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-2 财经,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3 综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4 中文国际,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5 体育,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6 电影,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7 国防军事,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8 电视剧,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9 纪录,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10 科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11 戏曲,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12 社会与法,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13 新闻,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15 音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-17 农业农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-1 综合,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
+CCTV-2 财经,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
+CCTV-3 综艺,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
+CCTV-4 中文国际,mitv://generationnexxxt.com:19806/50c3e18e04bf478db59251455cf3d309
+CCTV-5 体育,mitv://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
+CCTV-5+ 体育赛事,mitv://generationnexxxt.com:19806/5b390808c064415fa55fa30feb8788ff
+CCTV-6 电影,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7
+CCTV-7 国防军事,mitv://generationnexxxt.com:19806/e70ef03e57794075962ec3960df5b167
+CCTV-8 电视剧,mitv://generationnexxxt.com:19806/7c422f17b94c47928316bba288c64a25
+CCTV-9 纪录,mitv://generationnexxxt.com:19806/1d25488429514e78ab4d100819bece3e
+CCTV-10 科教,mitv://generationnexxxt.com:19806/db6e0eae415d4d3c80389e51f8aac382
+CCTV-11 戏曲,mitv://generationnexxxt.com:19806/aed547d30ca64a089f9b9adad8d9ee91
+CCTV-12 社会与法,mitv://generationnexxxt.com:19806/70a7e5f93ab14d978706c237fe142277
+CCTV-13 新闻,mitv://generationnexxxt.com:19806/89e640d10d2646d3b7580c9bd85e9565
+CCTV-14 少儿,mitv://generationnexxxt.com:19806/5ce5a7ff03b541cc8ef405312b4fec09
+CCTV-15 音乐,mitv://generationnexxxt.com:19806/8914df6967f546eb8cf20ea35946ad8d
+CCTV-1 综合,https://php.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
+CCTV-2 财经,https://php.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
+CCTV-3 综艺,https://php.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
+CCTV-4 中文国际,https://php.61073736.repl.co/sxg.php?id=CCTV-4H265_4000
+CCTV-5 体育,https://php.61073736.repl.co/sxg.php?id=CCTV-5H265_4000
+CCTV-5+ 体育赛事,https://php.61073736.repl.co/sxg.php?id=CCTV-5plusH265_4000
+CCTV-6 电影,https://php.61073736.repl.co/sxg.php?id=CCTV-6H265_4000
+CCTV-7 国防军事,https://php.61073736.repl.co/sxg.php?id=CCTV-7H265_4000
+CCTV-8 电视剧,https://php.61073736.repl.co/sxg.php?id=CCTV-8H265_4000
+CCTV-9 纪录,https://php.61073736.repl.co/sxg.php?id=CCTV-9H265_4000
+CCTV-10 科教,https://php.61073736.repl.co/sxg.php?id=CCTV-10H265_4000
+CCTV-11 戏曲,https://php.61073736.repl.co/sxg.php?id=CCTV-11-H265_4000
+CCTV-12 社会与法,https://php.61073736.repl.co/sxg.php?id=CCTV-12H265_4000
+CCTV-13 新闻,https://php.61073736.repl.co/sxg.php?id=CCTV-xw_4000
+CCTV-14 少儿,https://php.61073736.repl.co/sxg.php?id=CCTV-14H265_4000
+CCTV-15 音乐,https://php.61073736.repl.co/sxg.php?id=CCTV-15-yyH265_4000
+CCTV-16 奥林匹克,https://php.61073736.repl.co/sxg.php?id=CCTV-16_4000
+CCTV-16 奥林匹克 4K,https://php.61073736.repl.co/sxg.php?id=CCTV-16-4K_8000
+CCTV-17 农业农村,https://php.61073736.repl.co/sxg.php?id=CCTV-17_4000
+CCTV-1 综合,http://135.148.104.228:19806/5cb2056ba225422aab04f0ff6c1a1ad9
+CCTV-2 财经,http://135.148.104.228:19806/1c7a2a5c0c384637bb942eb49cc1e0ee
+CCTV-3 综艺,http://135.148.104.228:19806/18330ef800b2458892c9761dab67e610
+CCTV-4 中文国际,http://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
+CCTV-5 体育,http://135.148.104.228:19806/0126636bbd494267ae7f17c8abc8521f
+CCTV-5+ 体育赛事,http://135.148.104.228:19806/631fd43e577344b6ab6bd628dfa384ca
+CCTV-6 电影,http://135.148.104.228:19806/8cf06c01d4a14947a753a183865d1031
+CCTV-7 国防军事,http://135.148.104.228:19806/06fccec521bf42c29c0803f7a4c40c03
+CCTV-8 电视剧,http://135.148.104.228:19806/890497d5070b48069ec157bbb85e27bf
+CCTV-9 纪录,http://135.148.104.228:19806/bd1be015bfe94e53aab75e8b4a12bfe1
+CCTV-10 科教,http://135.148.104.228:19806/798b628cc31d4534aa26f8d4a2219fb7
+CCTV-11 戏曲,http://135.148.104.228:19806/5cf4c63b2eaf43cd80d6cccbbb9ae91d
+CCTV-12 社会与法,http://135.148.104.228:19806/0fccd849c85946e9bed8273fde548d57
+CCTV-13 新闻,http://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
+CCTV-14 少儿,http://135.148.104.228:19806/bf1a9f45f37f49568953fe97efe2ccb9
+CCTV-15 音乐,http://135.148.104.228:19806/3777f550472d4b91a5bbf76a74580cec
+CCTV-16 奥林匹克,http://135.148.104.228:19806/c2001475104d47b9815a8c3e5e73a761
+
+🎞️YouTuBe新闻,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇全球新聞,https://www.youtube.com/watch?v=DDvdmzvaNJs
+寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+東森Live,https://www.youtube.com/watch?v=R2iMq5LKXco
+東森新闻,https://www.youtube.com/watch?v=khuZW5GdBXo
+中天新聞1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
+FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
+ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
+DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
+ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
+KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
+NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
+CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
+东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+公視直播,https://www.youtube.com/watch?v=4Uc00FPs27M
+KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
+东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
+台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
+鳳凰資訊,https://www.youtube.com/watch?v=if6yQq_JJyY
+凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
