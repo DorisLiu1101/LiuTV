@@ -90,7 +90,11 @@ CCTV-14 少儿,http://135.148.104.228:19806/bf1a9f45f37f49568953fe97efe2ccb9
 CCTV-15 音乐,http://135.148.104.228:19806/3777f550472d4b91a5bbf76a74580cec
 CCTV-16 奥林匹克,http://135.148.104.228:19806/c2001475104d47b9815a8c3e5e73a761
 
-🎞️,#genre#
+CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV-4K 超高清,https://php.61073736.repl.co/sxg.php?id=ys4Kcq_2000
+
+🎞️衛視,#genre#
 
 
 
