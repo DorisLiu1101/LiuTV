@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./h/6Vip.json"
+      "ext": ""
     },
     {
       "key": "索尼",
@@ -54,6 +54,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
+        "測試用增加"
         "动作片",
         "喜剧片",
         "爱情片",
