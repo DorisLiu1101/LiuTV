@@ -6,13 +6,10 @@
       "name": "✨✨✨ 主線路-月光寶盒Org ✨✨✨"
     },
     {
-      "url": "http://饭太硬.ga/tv",
-      "name": "🚀飯太硬"
+      "url": "http://肥猫.live",
+      "name": "😺肥貓"
     },
-    {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "👒小米"
-    },
+      
     {
       "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
       "name": "🌙月光寶盒VIP"
@@ -50,45 +47,27 @@
       "name":"🚗🚗 ↓↓↓備用線路↓↓↓ 🚗🚗"
     },
     {
-      "url": "http://fan.xxooo.cf/tv",
-      "name": "🚀饭太硬-備用"
+    "url": "http://饭太硬.ga/tv",
+      "name": "🚫🚀飯太硬"
     },
     {
-      "url": "http://肥猫.live",
-      "name": "😺肥貓"
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "🚫👒小米"
+    },
+    {
+      "url": "http://fan.xxooo.cf/tv",
+      "name": "🚫🚀饭太硬-備用"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-      "name": "🎠香雅情镜像线路"
+      "name": "🎠香雅情鏡像"
     },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-      "name": "🎠酷安潇洒哥线路"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-      "name": "🎠霜辉月明 py"
-    },
-    {
-      "url": "https://tvbox.cainisi.cf",
-      "name": "🎠菜妮丝 XBPQ"
-    },
+    
     {
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🎠高天流云js"
     },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "🎠高天流云 XYQ"
-    },
-    {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🎠南风线路"
-    },
-    {
-      "url": "https://神器每日推送.tk/pz.json",
-      "name": "🎠神器(盜_飯太硬)"
-    },
+    
     {
       "url": "https://weixine.net/ysc.json",
       "name": "🎠运输车路(有跑馬燈)"
