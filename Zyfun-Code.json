@@ -208,18 +208,7 @@
       "categories": "",
       "key": "5b45accb-c367-e891-617f-1d6140656604"
     },
-    {
-      "key": "xinlangapi",
-      "name": "新浪资源",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "isActive": true,
-      "status": true,
-      "type": 1,
-      "id": 14
-    },
+
     {
       "key": "快车资源",
       "name": "快车资源",
