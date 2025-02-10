@@ -195,19 +195,7 @@
       "categories": "",
       "key": "9bc17f0f-4b09-32ee-afaf-cbef5d4cba8b"
     },
-    {
-      "id": "5b45accb-c367-e891-617f-1d6140656604",
-      "name": "🍌CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "isActive": false,
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "key": "5b45accb-c367-e891-617f-1d6140656604"
-    },
+
 
     {
       "key": "快车资源",
