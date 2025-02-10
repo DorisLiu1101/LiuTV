@@ -14,6 +14,19 @@
       "isActive": true
     },
     {
+      "id": "4a871b02-1c03-34de-281f-109ff7946efb",
+      "name": "卧龙资源",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "4a871b02-1c03-34de-281f-109ff7946efb"
+    },
+    {
       "id": "9636aec4-1ba2-41f4-ae83-c10a8a4ee077",
       "key": "6768cdcf-4d18-5fef-10d2-98d513b1f991",
       "name": "新浪资源",
@@ -168,6 +181,19 @@
       "ext": "",
       "categories": "",
       "isActive": true
+    },
+    {
+      "id": "5b45accb-c367-e891-617f-1d6140656604",
+      "name": "🍌CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "5b45accb-c367-e891-617f-1d6140656604"
     }
   ],
   "tbl_iptv": [
@@ -12096,17 +12122,6 @@
       "search": false,
       "showAll": false,
       "isActive": true
-    },
-    {
-      "id": "00923909-25d3-47f2-bcef-93a92e571dee",
-      "name": "✨星梦",
-      "server": "https://pan.bashroot.top",
-      "startPage": "",
-      "headers": null,
-      "params": null,
-      "search": false,
-      "showAll": false,
-      "isActive": true
     }
   ],
   "tbl_setting": {
@@ -12157,7 +12172,7 @@
     "theme": "auto",
     "lang": "zh_CN",
     "defaultHot": "kylive",
-    "defaultSearchRecommend": "site",
+    "defaultSearchRecommend": "douban",
     "defaultSearchType": "site",
     "defaultViewCasual": "",
     "defaultIptvEpg": "https://epg.112114.eu.org/?ch={name}&date={date}",
