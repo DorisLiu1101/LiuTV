@@ -46,52 +46,44 @@
       "url": "http://mzjk.top/禁止贩卖"
     },
     {
-      "name": "动漫城",
-      "url": "https://www.yingm.cc/dm/dm.json"
-    },
-    {
       "name": "喵影视",
       "url": "http://meowtv.cn/tv"
-    },
-    {
-      "name": "拾光短剧",
-      "url": "https://4708.kstore.space/DJ/DJ.json"
     },
     {
       "name": "🚧 ↓↓↓測試區↓↓↓ 🚧",
       "url": ""
     },
     {
-      "name": "Cyao2q📚",
-      "url": "https://raw.githubusercontent.com/cyao2q/files/refs/heads/master/m.json"
+      "name": "Reflyer📚",
+      "url": "https://raw.githubusercontent.com/Reflyer823/tvbox-config/refs/heads/master/main.json"
     },
     {
       "name": "王二小📚",
       "url": "http://tvbox.王二小放牛娃.top"
     },
     {
-      "name": "兔小貝📚",
-      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+      "name": "📚",
+      "url": ""
     },
     {
-      "name": "新道长📚",
-      "url": "https://drpys.6516789.xyz/config/1"
+      "name": "📚",
+      "url": ""
     },
     {
-      "name": "小脑斧📚",
-      "url": "https://6492.kstore.space/xnf/xnf.json"
+      "name": "📚",
+      "url": ""
     },
     {
-      "name": "摸鱼📚",
-      "url": "http://我不是.摸鱼儿.xyz"
+      "name": "📚",
+      "url": ""
     },
     {
-      "name": "喵影视📚",
-      "url": "http://meowtv.cn/tv"
+      "name": "📚",
+      "url": ""
     },
     {
-      "name": "小虎斑📚",
-      "url": "https://hb.xyyh.online/tvbox/"
+      "name": "📚",
+      "url": ""
     }
   ]
 }
