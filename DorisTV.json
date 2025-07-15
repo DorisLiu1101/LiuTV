@@ -5,10 +5,6 @@
       "url": "http://www.饭太硬.com/tv/"
     },
     {
-      "name": "😺肥貓",
-      "url": "http://肥猫.com/"
-    },
-    {
       "name": "🦹‍♂️進恩哥",
       "url": "https://raw.githubusercontent.com/jinenge/tvbox/main/tvbox.json"
     },
@@ -25,8 +21,8 @@
       "url": "https://raw.githubusercontent.com/guot55/YGBH/main/pro.json"
     },
     {
-     "name": "✨️宝盒迷",
-     "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
+     "name": "✨️小米",
+     "url": "https://mpanso.me/DEMO.json"
     },
   
     {
@@ -44,6 +40,10 @@
     {
       "name": "✨新寶盒vip",
       "url": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/vip2.json"
+    },
+    {
+      "name": "⛔️😺肥貓",
+      "url": "http://肥猫.com/"
     },
     {
       "name": "🚧 ↓↓↓測試區↓↓↓ 🚧",
