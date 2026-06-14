@@ -5,24 +5,12 @@
       "url": "http://www.饭太硬.cc/tv"
     },
     {
-      "name": "🚀飯太硬_org",
-      "url": "http://www.飯太硬.com/tv"
-    },
-    {
-      "name": "🦹‍♂️進恩哥2026",
-      "url": "https://raw.githubusercontent.com/jinenge/tvbox/refs/heads/main/tvbox.json"
-    },
-    {
-      "name": "🦹‍♂️進恩哥2025",
-      "url": "https://raw.githubusercontent.com/jinenge/tvbox/main/tvbox.json"
-    },
-    {
-      "name": "🦹‍♂️OK321",
-      "url": "http://ok321.top/tv"
-    },
-    {
-      "name": "🎺欧歌",
-      "url": "http://tv.nxog.top/m"
+      "name": "🚀飯太硬_備用",
+      "url": "http://www.饭太硬.net/tv"
+    },    
+   {
+      "name": "✨新寶盒vip",
+      "url": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/vip2.json"
     },
     {
       "name": "🌙月光寶盒VIP",
@@ -33,12 +21,17 @@
       "url": "https://raw.githubusercontent.com/guot55/YGBH/main/pro.json"
     },
     {
-     "name": "✨️小米",
-     "url": "https://mpanso.me/DEMO.json"
+      "name": "🦹‍♂️進恩哥2026",
+      "url": "https://jinenge.us.kg/app/tvbox/tvbox.json"
     },
-  
     {
-      "name": "🚗🚗 ↓↓↓次用線路↓↓↓ 🚗🚗",
+      "name": "🎺欧歌",
+      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
+    }, 
+
+
+    {
+      "name": "🚗🚗🚗 ↓↓↓次用線路↓↓↓ 🚗🚗🚗",
       "url": ""
     },
     {
@@ -50,21 +43,32 @@
       "url": "https://9280.kstore.vip/newwex.json"
     },
     {
-      "name": "✨新寶盒vip",
-      "url": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/vip2.json"
-    },
-    {
-      "name": "😺肥貓",
+      "name": "🚧😺肥貓",
       "url": "http://肥猫.com/"
     },
     {
-      "name": "🚧 ↓↓↓測試區↓↓↓ 🚧",
+     "name": "🚧✨️小米",
+     "url": "https://mpanso.me/DEMO.json"
+    },
+    
+    
+    {
+      "name": "🚧🚧🚧 ↓↓↓維修區↓↓↓ 🚧🚧🚧",
       "url": ""
     },
     {
-      "name": "🚀飯太硬_備用",
-      "url": "http://www.饭太硬.net/tv"
-    },    
+      "name": "🚧🚀飯太硬_org",
+      "url": "http://www.飯太硬.com/tv"
+    },
+
+    {
+      "name": "🚧🦹‍♂️",
+      "url": ""
+    },
+    {
+      "name": "🚧🦹‍♂️",
+      "url": ""
+    },
     {
       "name": "🌙",
       "url": ""
